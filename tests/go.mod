@@ -11,7 +11,7 @@ require (
 	gorm.io/driver/sqlite v1.4.4
 	gorm.io/gorm v1.24.3
 	gorm.io/hints v1.1.1 // indirect
-	gorm.io/plugin/dbresolver v1.4.0
+	gorm.io/plugin/dbresolver v1.4.1
 )
 
 replace github.com/weblfe/gorm_gen => ../
