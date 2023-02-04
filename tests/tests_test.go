@@ -1,6 +1,7 @@
 package tests_test
 
 import (
+		gen "github.com/weblfe/gorm_gen"
 		"log"
 		"os"
 		"path/filepath"

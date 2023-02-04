@@ -26,7 +26,7 @@ func assert(t *testing.T, methodName string, res, exp interface{}) {
 }
 
 type _another struct {
-	ID uint64 ` + "`" + `gorm:"primaryKey"` + "`" + `
+	ID uint64  `gorm:"primaryKey"`
 }
 
 func (*_another) TableName() string { return "another_for_unit_test" }

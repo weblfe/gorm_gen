@@ -3,6 +3,7 @@ package tests_test
 import (
 		"context"
 		"fmt"
+		gen "github.com/weblfe/gorm_gen"
 		"os"
 		"os/exec"
 		"strings"
