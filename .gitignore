@@ -37,4 +37,3 @@ __debug_bin
 *.db
 tools/gentool/gentool
 tools/gentool/tests
-model/
